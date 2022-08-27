@@ -15,12 +15,12 @@ class Config(object):
     REMOVE_TAG = False
 
     # REQUIRED
-    API_KEY = "617722711:AAHysCHsVcQja6LOlHa88101lKjrxez80-M"  # API key obtained from BotFather
-    OWNER_ID = "582884567"  # If you dont know, run the bot and do /id in your private chat with the bot
+    API_KEY = "1953662837:AAFOSEN_zEo3YzSnCD0WZ7sPQek0xDePxVc"  # API key obtained from BotFather
+    OWNER_ID = "1957520372"  # If you dont know, run the bot and do /id in your private chat with the bot
 
     # FOR AUTOMATICALLY FORWARDING MESSAGES
-    FROM_CHATS = [-1001234704297]  # List of chat id's to forward messages from
-    TO_CHATS = [-1001128355490]  # List of chat id's to forward messages to
+    FROM_CHATS = [-1001706470228]  # List of chat id's to forward messages from
+    TO_CHATS = [-1686594925]  # List of chat id's to forward messages to
 
     # FOR WEBHOOKS
     WEBHOOK = False
